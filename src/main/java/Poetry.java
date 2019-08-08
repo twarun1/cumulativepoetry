@@ -41,7 +41,7 @@ public class Poetry {
 
             }
         }
-        System.out.println(stringbuffer.toString());
+        //System.out.println(stringbuffer.toString());
         return stringbuffer.toString();
     }
 }

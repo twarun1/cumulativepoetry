@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 public class PoetryTest {
 
-    private Poetry poetry;
+    //private Poetry poetry;
 
     @Before
     public void setUp() {
